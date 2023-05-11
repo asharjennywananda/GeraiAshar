@@ -1,0 +1,233 @@
+/* navbar */
+
+.navbar{
+    padding-left: 120px;
+    padding-right: 120px;
+    box-sizing: border-box;
+    width: 1440px;
+    height: 80px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #000000;
+}
+
+.nav-link-search{
+    border: 1px solid #0f100f;
+    margin-left: 6px;
+    margin-top: 6px;
+    display: flex;
+    background: #FFFFFF;
+    border-radius: 4px;
+}
+
+.nav-link-search input{
+    background: #FFFFFF;
+    border: none;
+    outline: none;
+    flex: 1;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #161616;
+}
+
+.fa-magnifying-glass {
+    background-color: #FFFFFF;
+    padding: 5px 4px;
+    align-self: center;
+    border-radius: 4px;
+}
+
+.nav-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000 !important;
+}
+
+/* tutup navbar */
+
+.breadcrumb{
+    padding-left: 120px;
+    background-color: white;
+}
+
+.breadcrumb-item{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+/* detail */
+
+.detail{
+    margin-top: 80px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.product-img{
+    margin-left: 25px;
+}
+
+.productdtil{
+    margin-left: 50px;
+}
+
+.product-name{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+.product-detail{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    color: #000000;
+
+}
+
+.btn-beli{
+    margin-top: 40px;
+    width: 393px;
+    height: 59px;
+    background: #211EC8;
+    border-radius: 6px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+.btn-tambah{
+    margin-top: 30px;
+    box-sizing: border-box;
+    width: 393px;
+    height: 59px;
+    background: rgba(245, 245, 245, 0.98);
+    border: 1px solid #000000;
+    border-radius: 6px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0.05em;
+
+    color: #211EC8;
+
+}
+
+.about{
+    margin-top: 50px;
+}
+.about h5{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    color: #000000;
+}
+
+.about p{
+    width: 1104px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+
+    color: #000000;
+}
+
+
+/* tutup detail */
+
+
+/* footer */
+
+footer{
+    margin-top: 50px;
+    background: #D9D9D9;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+
+.footer-item{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    color: #000000;
+}
+
+.pesanan{
+    margin-top: -60px;
+    margin-left: 150px;
+}
+
+.Layanan{
+    margin-left: 140px;
+}
+
+.subs{
+    margin-left: 150px;
+}
+
+.footer-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #000000;
+}
+
+.subscribe{
+    padding-left: 5px;
+    width: 267px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 4px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
+.socialmed i{
+    font-family: 'fontawesome';
+    font-size: 32px;
+}
+
+.copyright{
+    height: 51px;
+    background: #211EC8;
+
+}
+
+.copyright h5{
+    padding-top: 12px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    color: #f3ecec;
+}
+
+/* tutup footer */
